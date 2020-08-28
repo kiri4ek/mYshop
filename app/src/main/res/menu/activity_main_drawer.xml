@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_launcher_home_foreground"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_menu"
+            android:icon="@drawable/ic_launcher_menu_foreground"
+            app:showAsAction="ifRoom"
+            android:title="@string/menu_menu" />
+        <item
+            android:id="@+id/nav_sets"
+            android:icon="@drawable/ic_launcher_sets_foreground"
+            android:title="@string/menu_sets" />
+        <item
+            android:id="@+id/nav_discounts"
+            android:icon="@drawable/ic_launcher_discounts_foreground"
+            android:title="@string/menu_discounts" />
+        <item
+            android:id="@+id/nav_basket"
+            android:icon="@drawable/ic_launcher_basket_foreground"
+            android:title="@string/menu_basket" />
+
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_launcher_settings_foreground"
+            android:title="@string/Settings" />
+
+        <!--<item
+            android:title="@string/Otstup" />-->
+
+        <item
+            android:id="@+id/nav_out"
+            android:icon="@drawable/ic_launcher_out_foreground"
+            android:title="@string/Out" />
+    </group>
+</menu>

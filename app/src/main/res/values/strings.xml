@@ -1,0 +1,55 @@
+<resources>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="app_name">MyShop</string>
+    <string name="today_header">Сегодня</string>
+    <string name="tomorrow_header">Завтра</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_menu">Меню</string>
+    <string name="menu_sets">Наборы</string>
+    <string name="menu_discounts">Акции</string>
+    <string name="menu_basket">Корзина</string>
+    <string name="ButtonBuy">Добавить в корзину</string>
+    <string name="ButtonOrder">Заказать</string>
+    <string name="ButtonClose">X</string>
+    <string name="Out">Выход</string>
+    <string name="Otstup">\n</string>
+    <string name="Settings">Настройки</string>
+    <string name="Name">Имя</string>
+    <string name="Surname">Фамилия</string>
+    <string name="email">Email</string>
+    <string name="PasswordRus">Пароль</string>
+    <string name="registerRus">Зарегистрироваться</string>
+    <string name="registerEng">Registration</string>
+    <string name="Type_pay">Безналичный</string>
+    <string name="ButtonSave">Сохранить</string>
+    <string name="cash">Нал</string>
+    <string name="PayPass">Безнал</string>
+    <string name="lable_pay">Тип оплаты:</string>
+    <string name="InputEmail">Введите email</string>
+    <string name="InputPassword">Введите пароль</string>
+    <string name="SignRus">Войти</string>
+    <string name="SignEng">Sign</string>
+    <string name="HintPassEng">Password</string>
+    <string name="SignUpEng">Sign up</string>
+    <string name="NotRegisterRus">Вы не зарегестрированы?</string>
+    <string name="NotRegisterEng">Don\'t have an account?</string>
+</resources>
